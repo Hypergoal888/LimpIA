@@ -1,0 +1,22 @@
+{
+  "salas": {
+    "101": {
+      "ocupada": false,
+      "personas": 0,
+      "ultima_deteccion": "2026-09-11 12:00:00",
+      "sensor": "activo"
+    },
+    "102": {
+      "ocupada": true,
+      "personas": 15,
+      "ultima_deteccion": "2026-09-11 12:05:00",
+      "sensor": "activo"
+    },
+    "103": {
+      "ocupada": false,
+      "personas": 0,
+      "ultima_deteccion": "2026-09-11 12:10:00",
+      "sensor": "activo"
+    }
+  }
+}
